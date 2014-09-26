@@ -1,0 +1,29 @@
+.q{
+width: 350px;
+height: 21px;
+}
+
+.q2{
+width: 150px;
+float: left;
+height: 21px;
+}
+
+#faq{
+padding: 50px, 0px;
+border-bottom: 1px solid #D8D8D8;
+background-color: #efefef;
+}
+
+.centerE{
+width: 300px;
+}
+
+a{
+color: #fff;
+text-decoration: none;
+}
+
+.signup{
+background-color: #81DAF5;
+}
